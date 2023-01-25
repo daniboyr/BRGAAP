@@ -1,0 +1,19 @@
+<mvc:View controllerName="com.orders.ordersapp.controller.Detail"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m">
+
+    <Page id="page" title="{i18n>Detalhes}" showNavButton="true" navButtonPress="oNavButton_press">
+
+        <content>
+        <VBox>
+        <Text text="Dei mole em algum detalhezinho pois as informações do invoice não estão aparecendo."/>
+        <Text text="userId: {userId}"/>
+        <Text text="id: {/id}"/>
+        <Text text="title: {title}"/>
+        <Text text="completed: {completed}"/>
+       
+        </VBox>
+        </content>
+    </Page>
+</mvc:View>

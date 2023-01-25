@@ -1,0 +1,56 @@
+<mvc:View 
+	controllerName="com.orders.ordersapp.controller.Home" 
+	xmlns:mvc="sap.ui.core.mvc" 
+	displayBlock="true" 
+	xmlns="sap.m">
+
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>Desenvolvimento de Software - BR GAAP}">
+					<content>
+					<Table id ="Invoices" items="{/ListaSet}">
+						<headerToolbar>
+							<OverflowToolbar>
+								<Title text="Daniel Ruas" titleStyle="H5"/>
+								<ToolbarSpacer/>
+
+								<SearchField
+								placeholder="Pesquisar" 
+								width="25%" 
+								search="handleSearch" 
+								/>
+
+							</OverflowToolbar>
+						</headerToolbar>
+							<columns>
+
+							<Column>
+								<Text text="Nome"/>
+							</Column>
+
+							<Column>
+								<Text text="Completado"/>
+							</Column>
+
+							<Column>
+								<Text text="Detalhes"/>
+							</Column>
+
+							</columns>
+						<items> 
+							<ColumnListItem type="Navigation" press="handleDetailsPress">
+								<cells>
+									<Text text="{title}"/>
+									<CheckBox change="handleChange"/>
+									<Button width="5rem" icon ="sap-icon://detail-view" press="handleDetailsPress"/>
+								</cells>
+							</ColumnListItem>
+							</items>
+					</Table>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
