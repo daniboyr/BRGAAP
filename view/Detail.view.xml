@@ -12,7 +12,8 @@
         <Text text="id: {/id}"/>
         <Text text="title: {title}"/>
         <Text text="completed: {completed}"/>
-       
+        <!-- Debuguei linha por linha, selecionei todas as formas possíveis de atribuir os valores e ainda assim não identifiquei o que esta impedindo de mostrar 
+        as informações na tela. Help, Moisés!! -->
         </VBox>
         </content>
     </Page>
