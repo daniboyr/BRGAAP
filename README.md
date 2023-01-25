@@ -14,4 +14,5 @@ Daniel Ruas.
 <br>
 <br>
 
-<img src = "https://media.licdn.com/dms/image/sync/D4D27AQEQlaLdhcrs6g/articleshare-shrink_1280_800/0/1674616392212?e=1675224000&v=beta&t=jkz55xpQA8aWWVkBwAd5Jz6PiEkT7FVtLqUQ2AhVJZA"
+<img src = "[https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fc6eb6012c0b24795806e1af6b0c89196.png&q=0.8&m=fit&w=400&h=200](https://udemy-certificate.s3.amazonaws.com/image/UC-0cd6951f-adda-4b30-a9df-547b326a0494.jpg?v=1674245105000)">
+
