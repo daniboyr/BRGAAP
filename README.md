@@ -14,5 +14,5 @@ Daniel Ruas.
 <br>
 <br>
 
-<img src = "[[https://img.swapcard.com/?u=https%3A%2F%2Fcdn-api.swapcard.com%2Fpublic%2Fimages%2Fc6eb6012c0b24795806e1af6b0c89196.png&q=0.8&m=fit&w=400&h=200](https://udemy-certificate.s3.amazonaws.com/image/UC-0cd6951f-adda-4b30-a9df-547b326a0494.jpg?v=1674245105000)](https://prnt.sc/LT8We6BmF3aV)">
+<img src = "https://prnt.sc/LT8We6BmF3aV">
 
