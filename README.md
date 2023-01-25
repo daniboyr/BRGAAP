@@ -1,7 +1,7 @@
 # Desenvolvimento de Software - BR GAAP
 Repositório criado para armazenar a atividade de Desenvolvimento de Software da empresa BR GAAP.
 
-Agradeço a oportunidade de aprimorar minhas competências e skills sobre o tema em questão. O desenvolvimento deste web app me incentivou a adquirir mais conhecimento em muitas outras áreas, principalmente em SAP UI 5, além das que já domíno e possibilitou reavaliar muitos conceitos que aprendi ao longo da minha jornada.
+Agradeço a oportunidade de aprimorar minhas competências e skills sobre o tema em questão. O desenvolvimento deste web app me incentivou a adquirir mais conhecimento em muitas outras áreas, principalmente em SAP UI 5, além das que já domínio e possibilitou reavaliar muitos conceitos que aprendi ao longo da minha jornada.
 
 E também agradeço por toda a transparência com que a Camila e o Moisés conduziram este processo seletivo. Desejo o melhor à vocês e à empresa. 
 
