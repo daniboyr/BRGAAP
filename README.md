@@ -3,7 +3,9 @@ Repositório criado para armazenar a atividade de Desenvolvimento de Software da
 
 Agradeço a oportunidade de aprimorar minhas competências e skills sobre o tema em questão. O desenvolvimento deste web app me incentivou a adquirir mais conhecimento em muitas outras áreas, principalmente em SAP UI 5, além das que já domínio e possibilitou reavaliar muitos conceitos que aprendi ao longo da minha jornada.
 
-E também agradeço por toda a transparência com que a Camila e o Moisés conduziram este processo seletivo. Desejo o melhor à vocês e à empresa. 
+Reforço o meu agradecimento por participar deste processo seletivo e por toda a transparência com que o senhor e a Camila conduziram este processo. 
+
+Estou a disposição para quaisquer dúvidas.
 
 Atenciosamente,
 Daniel Ruas.
